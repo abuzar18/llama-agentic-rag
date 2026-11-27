@@ -139,6 +139,12 @@ data/docs/       fictional sample handbook and policy documents
 - [ ] Streaming responses
 - [ ] PDF and DOCX ingestion
 
+## Related writing
+
+- [Building a RAG System That Says "I Don't Know"](https://abuzar18.github.io/blog/self-correcting-rag-llama-langgraph/): the design, the 8B-model choices and how refusals are measured
+- [Case study: Llama Agentic RAG](https://abuzar18.github.io/projects/llama-agentic-rag/)
+- [production-ai-notes](https://github.com/abuzar18/production-ai-notes): runnable scripts behind the numbers in my writing, including eval confidence intervals
+
 ## License
 
 MIT. Built by [Abuzar Zulfiqar](https://abuzar18.github.io/), AI/ML engineer.
